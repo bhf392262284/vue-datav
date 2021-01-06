@@ -10,7 +10,7 @@
   "dependencies": {
     "@antv/g2plot": "^1.1.6",
     "@jiaminghi/data-view": "^2.8.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "echarts": "^4.8.0",
     "moment": "^2.27.0",
